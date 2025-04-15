@@ -22,8 +22,9 @@
 }
 
 .box1 img {
-    width: 300px;
-    border-radius: 50%;
+    height: 200;
+    width: 200px;
+    border-radius: 08%;
     background-color: white;
 }
 
@@ -45,6 +46,8 @@ li {
 
 
 button{
+    
+padding: 15px;
     border: none;
     background-color: #E0CACC;
 }
@@ -72,7 +75,8 @@ button:hover{
 }
 
 .box2 img {
-    width: 300px;
+    height: 200px;
+    width: 150px;
     border-radius: 50%;
     background-color: white;
 }
@@ -85,6 +89,10 @@ li {
     background-color: white;
 
 }
+
+/* h3{
+    text-align: left;
+} */
 
 
 .box2:hover {
