@@ -2,7 +2,7 @@
 
 
 * {
-    background-color: #E0CACC;
+    background-color: #FCCCC4;
 }
 
 .main {
@@ -25,7 +25,7 @@
     border-radius: 30px;
     text-align: center;
     overflow: scroll;
-    /* box-shadow: 04px 8px  #2b2b2b; */
+
 
 
 }
@@ -60,7 +60,7 @@ button {
     padding: 15px;
     border-radius: 8px;
     border: none;
-    background-color: #E0CACC;
+    background-color: #FCCCC4;
 }
 
 button:hover {
@@ -82,7 +82,7 @@ button:hover {
     border-radius: 20px;
     text-align: center;
     overflow: scroll;
-    /* box-shadow: 04px 8px  #2b2b2b; */
+    
 
 
 }
@@ -107,11 +107,13 @@ li {
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
 
+
+
 .box3 {
     font-family: 'Pacifico', cursive;
 
     padding: 10px;
-    margin: 200px 80px;
+    margin: 200px 90px;
     padding: 20px;
     float: left;
     height: 500px;
@@ -119,16 +121,15 @@ li {
     background-color: white;
     border-radius: 20px;
     text-align: center;
-    overflow:hidden;
-    /* box-shadow: 04px 8px  #2b2b2b; */
+    overflow: scroll;
+ 
 
 
 }
 
 .box3 img {
-    height: 200;
+    height: 200px;
     width: 300px;
-
     border-radius: 08%;
     background-color: white;
 }
@@ -139,24 +140,36 @@ h5,
 ul,
 li {
     background-color: white;
-
 }
-
 
 .box3:hover {
-    transform: scale(1.03);
+    transform: scale(1.07);
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .header {
     width: 50%;
     margin: auto;
-    background-color: #E0CACC;
+    background-color: #FCCCC4;
 }
 
 .header>li {
     font-family: 'Pacifico', cursive;
-    background-color: #E0CACC;
+    background-color: #FCCCC4;
     font-size: 20px;
     display: inline-block;
     margin: 30px
@@ -164,7 +177,7 @@ li {
 
 .header>li:hover {
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
-    /* background-color: #E0CACC; */
+ 
 
 }
 
@@ -178,5 +191,5 @@ li {
 ::-webkit-scrollbar-thumb {
     background-color: #7c8283;
     border-radius: 10px;
-   
+
 }
