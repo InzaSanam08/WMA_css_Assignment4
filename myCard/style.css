@@ -10,6 +10,8 @@
     font-family: "Outfit", sans-serif;
 }
 
+
+
 .box1 {
     font-family: 'Pacifico', cursive;
 
@@ -100,11 +102,6 @@ li {
     background-color: white;
 }
 
-/* h3{
-    text-align: left;
-} */
-
-
 .box2:hover {
     transform: scale(1.07);
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
@@ -148,3 +145,24 @@ li {
     transform: scale(1.03);
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
+
+.header{
+    width: 50%;
+    margin: auto;
+    background-color: #E0CACC;
+}
+.header>li{
+    font-family: 'Pacifico', cursive;
+     background-color: #E0CACC;
+    font-size: 20px;
+    display: inline-block;
+     margin: 30px
+     
+
+    }
+
+   .header>li:hover{
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+        /* background-color: #E0CACC; */
+     
+    }
